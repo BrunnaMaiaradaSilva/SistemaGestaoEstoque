@@ -27,11 +27,13 @@
 
 **O sistema deverá permitir cadastrar produtos por categorias.**
 
-*  bebidas não alcoólicas
+**bebidas não alcoólicas**
+
 * refrigerante
 *  água
 *  achocolatado …
-*  bebidas alcoólicas
+
+**bebidas alcoólicas**
 *  cerveja
 *  vodka
 *  vinho
