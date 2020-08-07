@@ -1,11 +1,12 @@
 # Sistema de Gestão de Estoque em Java
 
-SGE - Sistema de Gerenciamento de Estoque
+### SGE - Sistema de Gerenciamento de Estoque
 
 
 **Descrição**
 
-      O  objetivo  deste  projeto  é  o  desenvolvimento   de um  software  capaz de gerir as informações de um estoque de bebidas, como entrada e saída de bebidas,
+      O  objetivo  deste  projeto  é  o  desenvolvimento   de um  software  capaz de gerir as informações de um estoque de bebidas, 
+      como entrada e saída de bebidas.
 
 
 **Escopo**
