@@ -1,14 +1,21 @@
 
-public class Vendedor extends Pessoa {
+public class Vendedor extends Pessoa implements Autenticavel {
 	
-	private int senha;
+	private Login login;
 	
-	public boolean autentica(int senha, String email) {
-		if(this.senha == senha && this.email == this.email) {
-			return true;
-		} else {
-			return false;
-		}
+	public Vendedor() {
+		this.login = new Login();
 	}
-		
+
+	@Override
+	public void setSenha(String senha) {
+		this.login.setSenha(senha);
+	}
+
+	@Override
+	public boolean autentica(String senha, String email) {
+		return this.login.autentica(senha, email);
+	}
+
+	
 }

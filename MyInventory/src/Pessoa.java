@@ -1,4 +1,4 @@
-public class Pessoa {
+public abstract class Pessoa {
 
 	private String nome;
 	private String sobrenome;
@@ -65,5 +65,4 @@ public class Pessoa {
 		this.cnpj = cnpj;
 		return cnpj;
 	}
-	
 }
