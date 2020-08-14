@@ -1,5 +1,5 @@
 
-public class Vendedor extends Pessoa implements Autenticavel {
+public class Vendedor extends User implements Autenticavel {
 	
 	private Login login;
 	

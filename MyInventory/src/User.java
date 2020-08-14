@@ -1,4 +1,4 @@
-public abstract class Pessoa {
+public abstract class User {
 
 	private String nome;
 	private String sobrenome;
@@ -9,7 +9,7 @@ public abstract class Pessoa {
 	protected String email;
 
 	public String getNome() {
-		return nome;
+		return nome.toUpperCase();
 	}
 
 	public void setNome(String nome) {
@@ -17,7 +17,7 @@ public abstract class Pessoa {
 	}
 
 	public String getSobrenome() {
-		return sobrenome;
+		return sobrenome.toUpperCase();
 	}
 
 	public void setSobrenome(String sobrenome) {

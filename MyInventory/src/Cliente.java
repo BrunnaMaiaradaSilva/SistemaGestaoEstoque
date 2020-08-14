@@ -1,5 +1,5 @@
 
-public class Cliente extends Pessoa {
+public class Cliente extends User {
 
 	private String telefone;
 
