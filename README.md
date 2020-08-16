@@ -34,6 +34,7 @@
 *  achocolatado …
 
 **bebidas alcoólicas** :cocktail:
+
 *  cerveja
 *  vodka
 *  vinho
