@@ -1,6 +1,6 @@
 # Sistema de Gestão de Estoque em Java
 
-### SGE - Sistema de Gerenciamento de Estoque
+### SGE - Sistema de Gerenciamento de Estoque :beers:
 
 
 **Descrição**
@@ -27,13 +27,13 @@
 
 **O sistema deverá permitir cadastrar produtos por categorias.**
 
-**bebidas não alcoólicas**
+**bebidas não alcoólicas** :baby_bottle:
 
 * refrigerante
 *  água
 *  achocolatado …
 
-**bebidas alcoólicas**
+**bebidas alcoólicas** :cocktail:
 *  cerveja
 *  vodka
 *  vinho
