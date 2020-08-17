@@ -74,3 +74,10 @@
 
 * arquivo excel
 * arquivo pdf
+
+### Como executar o SGE
+
+```
+git clone "https://github.com/BrunnaMaiaradaSilva/SistemaGestaoEstoque"
+```
+
