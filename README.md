@@ -51,7 +51,7 @@
 *  números
 *  1 caractere especial: - ! @
 
-**O sistema deverá permitir realizar uma venda.**
+**O sistema deverá permitir realizar uma venda.** :moneybag:
 
 **Para realizar uma venda é necessário:**
 
@@ -70,7 +70,7 @@
 *  data que foi entregue
 *  quem recebeu o pedido
   
-**O sistemas deverá permitir gerar relatório com produtos menos e mais vendidos em um determinado período.**
+**O sistemas deverá permitir gerar relatório com produtos menos e mais vendidos em um determinado período.** :chart_with_upwards_trend: :bar_chart: :date:
 
 * arquivo excel
 * arquivo pdf
